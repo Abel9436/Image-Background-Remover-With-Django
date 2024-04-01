@@ -1,5 +1,4 @@
-Sure, here's a sample README for a GitHub repository called "Image Background Remover with Django":
-
+https://github.com/Abel9436/Image-Background-Remover-With-Django/assets/136198323/c31539fc-6119-4fdf-846b-4fe830d66c82
 # Image Background Remover with Django
 
 This Django-based web application allows users to upload images and automatically remove their backgrounds using advanced machine learning techniques. It provides a simple and user-friendly interface for seamlessly removing backgrounds from images, making it easier to create transparent images or composites with custom backgrounds.
